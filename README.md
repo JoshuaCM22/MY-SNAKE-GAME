@@ -4,7 +4,7 @@
 * Programming Language: C#
 * Target Framework: .Net Framework 4.7.2
 * IDE: MS Visual Studio 2012
-* Type of Application: Desktop Application (Console Application Game)
+* Type of Application: Desktop Application (Console)
   
 <h2> User Interface Screenshots </h2> 
   <img src="SCREENSHOTS/PIC1.jpg">
